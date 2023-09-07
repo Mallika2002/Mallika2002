@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mallika
-- 👀 I’m interested in Full Stack Development and code in Java.. 
+- 👀 I’m interested in Full Stack Development and solving problems in Java.. 
 - 🌱 I'm currently learning "Full Stack Development"
 
 <!---
