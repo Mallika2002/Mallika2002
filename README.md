@@ -4,8 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mallika2002&label=Profile%20views&color=0e75b6&style=flat" alt="mallika2002" /> </p>
 
 - 👀 I’m interested in Full Stack Development and solving problems in Java..
+  
 - 🌱 I’m currently learning **MERN Stack**
+  
 - 📫 How to reach me **mallikaswetha2002@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
