@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in Full Stack Development and solving problems in Java..
   
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Spring, Spring Boot, JPA**
   
 - 📫 How to reach me **mallikaswetha2002@gmail.com**
   
