@@ -5,7 +5,7 @@
 
 - 👀 I’m interested in Full Stack Development and solving problems in Java..
   
-- 🌱 I’m currently learning **Spring, Spring Boot, JPA, JDBC**
+- 🌱 I’m currently learning **Spring, Spring Boot, JPA, JDBC, Streamlit**
   
 - 📫 How to reach me **mallikaswetha2002@gmail.com**
   
